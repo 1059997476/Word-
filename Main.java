@@ -15,8 +15,8 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * @Parmae 第一个输入为根文件夹 \172042 如：C:\Users\胡雍杰\Desktop\172042
- * @Parmae 第二个输入为自己文件名 如：17202120-胡雍杰-调查问卷.docx
+ * @Parmae 第一个输入为根文件夹 \172042 如：C:\Users\10599\Desktop\172042
+ * @Parmae 第二个输入为自己文件名 如：17xxxxx-xxx-调查问卷.docx
  * @Parmae 第三个输入为题目数量
  * ·
  * ·
